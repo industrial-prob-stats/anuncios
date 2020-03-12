@@ -12,5 +12,5 @@ por orden alfabético.
 ## * Grupo 1: Hasta la letra M inclusive
 ## * Grupo 2: el resto
 
-[### Cronograma de las clases](https://github.com/industrial-prob-stats/anuncios/blob/master/Cronograma_ProbyEst_Industrial2020.pdf)
+[##Cronograma de las clases](https://github.com/industrial-prob-stats/anuncios/blob/master/Cronograma_ProbyEst_Industrial2020.pdf)
 
