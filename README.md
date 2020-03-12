@@ -12,4 +12,5 @@ por orden alfabético.
 ## * Grupo 1: Hasta la letra M inclusive
 ## * Grupo 2: el resto
 
+[### Cronograma de las clases]
 
