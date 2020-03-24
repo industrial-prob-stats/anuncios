@@ -6,6 +6,12 @@ lauraitatigimenez@gmail.com
 
 ---
 
+# GRUPO 7 FALTA ENVIAR TRABAJO PRÁCTICO DE MUESTREO
+### comunicarse con la profesora Laura Giménez a su correo electrónico
+### lauraitatigimenez@gmail.com
+
+---
+
 # Se conformarán *dos grupos* para las _actividades prácticas_, 
 por orden alfabético.
 
