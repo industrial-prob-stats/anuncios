@@ -6,6 +6,12 @@ lauraitatigimenez@gmail.com
 
 ---
 
+### Canal de Youtube de la cátedra
+## https://www.youtube.com/channel/UCZp-9gLD4Qohn1wNv5jfoNw?view_as=subscriber
+## (ver los 6 videos en ORDEN)
+
+
+---
 
 # Se conformarán *dos grupos* para las _actividades prácticas_, 
 por orden alfabético.
