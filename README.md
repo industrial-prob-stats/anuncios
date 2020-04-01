@@ -5,6 +5,10 @@ Correo electónico de la profesora Laura Giménez
 lauraitatigimenez@gmail.com
 
 ---
+### Guía de Instalación R y Rstudio
+
+
+---
 
 ### Canal de Youtube de la cátedra
 ## https://www.youtube.com/channel/UCZp-9gLD4Qohn1wNv5jfoNw?view_as=subscriber
