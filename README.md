@@ -11,7 +11,7 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
-[Teórico de Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
+## [Teórico de Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
 
 ---
 
