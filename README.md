@@ -10,6 +10,10 @@ lauraitatigimenez@gmail.com
 
 
 ---
+## YA DISPONIBLE
+[Teórico de Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
+
+---
 
 ### [Canal de Youtube de la cátedra](https://www.youtube.com/channel/UCZp-9gLD4Qohn1wNv5jfoNw?view_as=subscriber)
 ### [Lista de Reproducción de la Guía Variables Aleatorias](https://www.youtube.com/watch?v=CCxVQeVijYo&list=PLNwm0SNfmJPjdkSehOLHPjr3ID2161Er8)
