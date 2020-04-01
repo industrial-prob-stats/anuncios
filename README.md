@@ -5,7 +5,8 @@ Correo electónico de la profesora Laura Giménez
 lauraitatigimenez@gmail.com
 
 ---
-[### Guía de Instalación R y Rstudio](https://github.com/industrial-prob-stats/material/blob/master/Instalacion_R_RStudio.pdf)
+## IMPORTANTE
+## Es necesario que tengas instalado R y Rstudio. Los pasos para instalar [acá](https://github.com/industrial-prob-stats/material/blob/master/Instalacion_R_RStudio.pdf)
 
 
 ---
