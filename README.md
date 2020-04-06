@@ -15,6 +15,8 @@ lauraitatigimenez@gmail.com
 ## [Como hacer vectores, matrices y dataframes en R](https://github.com/industrial-prob-stats/material/blob/master/02-tipo_de_datos.pdf)
 ## [Guía 2 de Problemas](https://github.com/industrial-prob-stats/material/blob/master/guia02-variables-aleatorias.pdf)
 ## [Guía 2 de Problemas Resuelta](https://github.com/industrial-prob-stats/material/blob/master/02-variables-aleatorias-resuelta.pdf)
+## IMPORTANTE: Al instalar un paquete debe escribir
+### install.packages("agricolae") entre comillas, en las guías y en el video está sin comillas. 
 
 
 
