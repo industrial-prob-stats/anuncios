@@ -17,6 +17,10 @@ lauraitatigimenez@gmail.com
 ## [Guía 2 de Problemas Resuelta](https://github.com/industrial-prob-stats/material/blob/master/02-variables-aleatorias-resuelta.pdf)
 ## IMPORTANTE: Al instalar un paquete debe escribir
 ### install.packages("agricolae") ENTRE COMILLAS. En las guías y en el video está sin comillas. 
+---
+## Si no puede instalar R y Rstudio por algún motivo 
+## puede seguir este tutorial para usar Rstudio en la nube, mediante Rstudio Cloud
+
 
 
 
