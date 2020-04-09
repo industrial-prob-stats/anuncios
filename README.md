@@ -20,6 +20,7 @@ lauraitatigimenez@gmail.com
 ---
 ## Si no puede instalar R y Rstudio por algún motivo 
 ## puede seguir este tutorial para usar Rstudio en la nube, mediante Rstudio Cloud
+## [click acá](https://github.com/industrial-prob-stats/material/blob/master/tutorial_rstudio_cloud.pdf) 
 
 
 
