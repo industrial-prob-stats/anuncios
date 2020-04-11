@@ -14,6 +14,7 @@ lauraitatigimenez@gmail.com
 ## [Teórico de Parámetros y Estimadores](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%204_ParamyEstim.pdf)
 ## [Guía Práctica Parámetros y Estimadores](https://github.com/industrial-prob-stats/material/blob/master/guia3-parametros-estimadores.pdf)
 ## Fecha de entrega del trabajo: 17 de abril
+## [Lista de Reproducción en Youtube](https://www.youtube.com/watch?v=MI3QpnnIRvU&list=PLNwm0SNfmJPiYx7rO_L341pHoB1WK9iB9)
 
 ---
 ## [Teórico de Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
