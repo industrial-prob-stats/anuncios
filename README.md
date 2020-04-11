@@ -11,6 +11,10 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
+## [Teórico de Parámetros y Estimadores](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%204_ParamyEstim.pdf)
+
+
+---
 ## [Teórico de Variables Aleatorias](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%203_Variables%20Aleatorias.pdf)
 ## [Como hacer vectores, matrices y dataframes en R](https://github.com/industrial-prob-stats/material/blob/master/02-tipo_de_datos.pdf)
 ## [Guía 2 de Problemas](https://github.com/industrial-prob-stats/material/blob/master/guia02-variables-aleatorias.pdf)
