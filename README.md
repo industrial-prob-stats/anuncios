@@ -13,6 +13,7 @@ lauraitatigimenez@gmail.com
 ## YA DISPONIBLE
 ## [Teórico de Distribuciones de Variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%205_Dist.de%20variables.pdf)
 ## [Libro Introducción a la probabilidad](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Introduccion%20a%20la%20probabilidad.pdf)
+## [Guía Práctica Distribuciones de Probabilidad](https://github.com/industrial-prob-stats/material/blob/master/guia4-final.pdf)
 
 
 ---
