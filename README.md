@@ -14,12 +14,13 @@ lauraitatigimenez@gmail.com
 ## [Teórico de Distribuciones de Variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%205_Dist.de%20variables.pdf)
 ## [Libro Introducción a la probabilidad](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Introduccion%20a%20la%20probabilidad.pdf)
 ## [Guía Práctica Distribuciones de Probabilidad](https://github.com/industrial-prob-stats/material/blob/master/guia4-final.pdf)
+## Fecha de entrega del trabajo: 26 de Abril 
 
 
 ---
 ## [Teórico de Parámetros y Estimadores](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%204_ParamyEstim.pdf)
 ## [Guía Práctica Parámetros y Estimadores](https://github.com/industrial-prob-stats/material/blob/master/guia3-parametros-estimadores.pdf)
-## Fecha de entrega del trabajo: 17 de abril
+## Fecha de entrega del trabajo: 17 de Abril
 ## [Lista de Reproducción en Youtube](https://www.youtube.com/watch?v=MI3QpnnIRvU&list=PLNwm0SNfmJPiYx7rO_L341pHoB1WK9iB9)
 
 ---
