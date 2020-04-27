@@ -11,6 +11,12 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
+
+## [Teórico de Teoría de la Estimación](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%206_Teor%C3%ADa%20de%20la%20Estimaci%C3%B3n.pdf)
+## [Consideraciones respecto a la Normal Estándar](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Relacion%20entre%20Normal%20Gral%20y%20la%20Est%C3%A0ndar.pdf) 
+
+
+---
 ## [Teórico de Distribuciones de Variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%205_Dist.de%20variables.pdf)
 ## [Libro Introducción a la probabilidad](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Introduccion%20a%20la%20probabilidad.pdf)
 ## [Guía Práctica Distribuciones de Probabilidad](https://github.com/industrial-prob-stats/material/blob/master/guia4-final.pdf)
