@@ -14,6 +14,8 @@ lauraitatigimenez@gmail.com
 
 ## [Teórico de Teoría de la Estimación](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%206_Teor%C3%ADa%20de%20la%20Estimaci%C3%B3n.pdf)
 ## [Consideraciones respecto a la Normal Estándar (teoría)](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Relacion%20entre%20Normal%20Gral%20y%20la%20Est%C3%A0ndar.pdf) 
+## [Libro Estadística Descriptiva]
+## [Libro Introducción a la Estadística inferencial]
 
 
 ---
