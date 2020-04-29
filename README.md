@@ -17,6 +17,7 @@ lauraitatigimenez@gmail.com
 ## [Libro Estadística Descriptiva](https://github.com/industrial-prob-stats/libros/blob/master/estadistica-descriptiva.pdf)
 ## [Libro Introducción a la Estadística inferencial](https://github.com/industrial-prob-stats/libros/blob/master/estadistica-inferencial.pdf)
 ## [Guía Práctica 5](https://github.com/industrial-prob-stats/material/blob/master/guia5.pdf) 
+## Entrega: Lunes 4 de Mayo
 
 
 
