@@ -16,7 +16,7 @@ lauraitatigimenez@gmail.com
 ## [Consideraciones respecto a la Normal Estándar (teoría)](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Relacion%20entre%20Normal%20Gral%20y%20la%20Est%C3%A0ndar.pdf) 
 ## [Libro Estadística Descriptiva](https://github.com/industrial-prob-stats/libros/blob/master/estadistica-descriptiva.pdf)
 ## [Libro Introducción a la Estadística inferencial](https://github.com/industrial-prob-stats/libros/blob/master/estadistica-inferencial.pdf)
-## [Guía Tema 5](https://github.com/industrial-prob-stats/material/blob/master/guia5.pdf) 
+## [Guía Práctica 5](https://github.com/industrial-prob-stats/material/blob/master/guia5.pdf) 
 
 
 
