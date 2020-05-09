@@ -12,7 +12,9 @@ lauraitatigimenez@gmail.com
 ---
 ## YA DISPONIBLE
 ## [Teórico de Test de Hipótesis](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%207_Pruebas%20de%20hip%C3%B3tesis.pdf)
+## [Guía 6 Test de hipótesis](https://github.com/industrial-prob-stats/material/blob/master/guia-6.pdf)
 ## [Guía 4 resuelta](https://github.com/industrial-prob-stats/material/blob/master/guia4-resuelta.pdf)
+## Fecha de entrega: Viernes 15 de Mayo.
 
 ---
 
