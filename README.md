@@ -13,7 +13,7 @@ lauraitatigimenez@gmail.com
 ## YA DISPONIBLE
 ## Para Practicar
 ## [set de datos iris](https://github.com/industrial-prob-stats/datos-para-practicar)
-## Entrar en la carpeta y apretar "Clone or download", luego seleccionar DOWNLOAD AS ZIP, se descarga una carpeta comprimida, descomprimir el archivo de datos para trabajar
+## Entrar en el enlace de arriba (set de datos iris) y apretar "Clone or download", luego seleccionar DOWNLOAD AS ZIP, se descarga una carpeta comprimida, descomprimir el archivo de datos para trabajar
 
 
 ----
