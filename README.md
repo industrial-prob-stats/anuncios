@@ -11,12 +11,14 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
+## [Guía 6 resuelta](https://github.com/industrial-prob-stats/material/blob/master/guia-6-resuelta.pdf)
 ## Para Practicar
 ## [set de datos iris](https://github.com/industrial-prob-stats/datos-para-practicar)
 ## Entrar en el enlace de arriba (set de datos iris) y apretar "Clone or download", luego seleccionar DOWNLOAD AS ZIP, se descarga una carpeta comprimida, descomprimir el archivo de datos para trabajar
 
 
 ----
+
 ## [Trabajo sobre p-valor](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1139-76322017000500014)
 ## [Teórico de Test de Hipótesis Primera Parte](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%207_Pruebas%20de%20hip%C3%B3tesis.pdf)
 ## [Teórico de Test de Hipótesis Segunda Parte](https://github.com/industrial-prob-stats/material/blob/master/TEMA%207_Pruebas%20de%20hipotesis2.pdf)
