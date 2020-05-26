@@ -11,6 +11,7 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
+## [Teorico de Chi cuadrado](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%208%20_Pruebas%20chi%20cuadrado2020.pdf)
 ## [Guía 6 resuelta](https://github.com/industrial-prob-stats/material/blob/master/guia-6-resuelta.pdf)
 ## Para Practicar
 ## [set de datos iris](https://github.com/industrial-prob-stats/datos-para-practicar)
