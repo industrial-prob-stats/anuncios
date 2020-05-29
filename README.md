@@ -11,7 +11,7 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
-## ## [Guía 7](https://github.com/industrial-prob-stats/material/blob/master/guia7.pdf)
+## [Guía 7](https://github.com/industrial-prob-stats/material/blob/master/guia7.pdf)
 ## [Teorico de Chi cuadrado](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%208%20_Pruebas%20chi%20cuadrado2020.pdf)
 
 ## Fecha de entrega: Viernes 5 de junio
