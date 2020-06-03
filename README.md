@@ -9,6 +9,8 @@ lauraitatigimenez@gmail.com
 ## Es necesario que tengas instalado R y Rstudio. Los pasos para instalar [acá](https://github.com/industrial-prob-stats/material/blob/master/Instalacion_R_RStudio.pdf)
 
 
+## [Notas 1er Parcial](https://github.com/industrial-prob-stats/material/blob/master/NOTA%20PRIMER%20PARCIAL.pdf)
+
 ---
 ## YA DISPONIBLE
 ## [Guía 7](https://github.com/industrial-prob-stats/material/blob/master/guia7.pdf)
