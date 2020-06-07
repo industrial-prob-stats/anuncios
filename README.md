@@ -13,6 +13,11 @@ lauraitatigimenez@gmail.com
 
 ---
 ## YA DISPONIBLE
+
+## [Teórico de Correlación y Regresión lineal simple](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%209%20Correlacion%20y%20Regresi%C3%B3n%20Lineal.pdf)
+## [Teoria - Relación entre variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/22%20-%20Cap.%2022%20-%20Relaci%C3%B3n%20entre%20variables.pdf)
+
+
 ## [Guía 7](https://github.com/industrial-prob-stats/material/blob/master/guia7.pdf)
 ## [Teorico de Chi cuadrado](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMA%208%20_Pruebas%20chi%20cuadrado2020.pdf)
 
