@@ -15,6 +15,7 @@ lauraitatigimenez@gmail.com
 ## YA DISPONIBLE
 
 ## [Guía 8](https://github.com/industrial-prob-stats/material/blob/master/guia8.pdf)
+## Entrega: Domingo 14 de Junio 
 ## [Teórico de Correlación y Regresión lineal simple](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/Tema%209%20Correlacion%20y%20Regresi%C3%B3n%20Lineal(1).pdf)
 ## [Teoria - Relación entre variables](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/22%20-%20Cap.%2022%20-%20Relaci%C3%B3n%20entre%20variables.pdf)
 
