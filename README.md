@@ -15,9 +15,9 @@ lauraitatigimenez@gmail.com
 ## YA DISPONIBLE
 
 ## [Guía 9]()
-Los datos se pueden descargar de esta [carpeta](https://github.com/industrial-prob-stats/datos-para-practicar)
-Recuerde descargar y **descomprimir la carpeta**
-Ingresar los datos de la misma manera que en el 1er Parcial. 
+* Los datos se pueden descargar de esta [carpeta](https://github.com/industrial-prob-stats/datos-para-practicar)
+* Recuerde descargar y **descomprimir la carpeta**
+* Ingresar los datos de la misma manera que en el 1er Parcial. 
 ## [Teoría ]()
 
 ## [Guía 8](https://github.com/industrial-prob-stats/material/blob/master/guia8.pdf)
