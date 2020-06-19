@@ -18,7 +18,7 @@ lauraitatigimenez@gmail.com
 * Los datos se pueden descargar de esta [carpeta](https://github.com/industrial-prob-stats/datos-para-practicar)
 * Recuerde descargar y **descomprimir la carpeta**
 * Ingresar los datos de la misma manera que en el 1er Parcial. 
-## [Teoría ](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMAS%2010%20_An%C3%A1lisis%20de%20la%20Varianza.pdf)
+## [Teoría Análisis de la Varianza](https://github.com/industrial-prob-stats/presentaciones-teoricas/blob/master/TEMAS%2010%20_An%C3%A1lisis%20de%20la%20Varianza.pdf)
 
 ## [Guía 8](https://github.com/industrial-prob-stats/material/blob/master/guia8.pdf)
 ## Entrega: Domingo 14 de Junio 
